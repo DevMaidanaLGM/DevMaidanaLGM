@@ -1,4 +1,4 @@
-👋 Hi, I’m @DevMaidanaLGM (Maidana Leonardo G.M.) 
+👋 Hi, I’m @DevMaidanaLGM (Leonardo G.M.) 
 
 * I'm a recently graduate of the "Universitary Analyst Programmer" Degree of an Engineering Faculty of Argentina. 
 
