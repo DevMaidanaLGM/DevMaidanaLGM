@@ -4,7 +4,7 @@
 
 * I'm 24 years old 
 
-* I'm from Argentina, so my native languaje is Spanish
+* I'm from Argentina, so my native language is Spanish
 
 * My English level is pretty good
 
