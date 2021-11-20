@@ -1,33 +1,26 @@
-👋 Hi, I’m @DevMaidanaLGM (Leonardo G.M.) 
+# Hi, I’m @DevMaidanaLGM (Leonardo G.M.) 
 
 * I'm a recently graduate of the "University Programmer Analyst" Degree of an Engineering Faculty of Argentina. 
-
 * I'm 24 years old 
-
 * I'm from Argentina, so my native language is Spanish
-
 * My English level is pretty good so we can communicate in both languages
 
 
-👀 I’m interested in ...
+## I'm looking for
 
 * Improve all my develompent skills
+* Get a job to grow professionally
 * Improve my english level
-* Grow up professionaly
 * Learn as much as I can
 
-🌱 I’m currently learning ...
+## Here is some of the technologies that I use:
 
-* React Js
-* Js
+![skills]()
 
-💞️ I’m looking to collaborate on ...
 
-* Right now, just junior lvl proyects to addquire more experience and reach the next lvl
-* English improvement throught communication
+## Contact me:
 
-📫 How to reach me ...
-
+https://www.linkedin.com/in/leonardo-maidana-1a2482223/
 dev.maidanalgm@gmail.com
 
 <!---
