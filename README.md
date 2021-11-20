@@ -10,7 +10,7 @@
 
 * Improve all my develompent skills
 * Get a job to grow professionally
-* Improve my english level
+* Improve my English level
 * Learn as much as I can
 
 
