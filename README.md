@@ -15,13 +15,14 @@
 
 ## Here is some of the technologies that I use:
 
-![skills]()
+![skills](./developer.png)
 
 
 ## Contact me:
 
-https://www.linkedin.com/in/leonardo-maidana-1a2482223/
-dev.maidanalgm@gmail.com
+Linkedin: https://www.linkedin.com/in/leonardo-maidana-1a2482223/
+
+Gmail: dev.maidanalgm@gmail.com
 
 <!---
 DevMaidanaLGM/DevMaidanaLGM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
