@@ -42,7 +42,7 @@ Since I was enrolled at the university I developed several softwares, These are 
 
 
 
-**System for Load Management:** management of statements, loans, clients, payment of installments, etc.
+**System for Loan Management:** management of statements, loans, clients, payment of installments, etc.
 
 
 ■ .NET
