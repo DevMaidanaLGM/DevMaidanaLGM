@@ -41,7 +41,7 @@ Apache
 
 
 - **System for Loan Management:** management of statements, loans, clients, payment of installments, clients, users, roles, fees, login.
-- 
+
 Technologies: .NET – C# – Windows Forms – SQLSV Express – VS2010
 
 
