@@ -6,7 +6,7 @@
 * My English level is pretty good so we can communicate in both languages
 
 
-##Portfolio: https://leon-react-portfolio.herokuapp.com/
+## Portfolio: https://leon-react-portfolio.herokuapp.com/
 
 
 ## I'm looking for
