@@ -1,4 +1,4 @@
-# Hi, I’m @DevMaidanaLGM (Leonardo G.M.) 
+# Hi, I’m @DevMaidanaLGM (Leon) 
 
 * I'm a recently graduate of the "University Programmer Analyst" Degree of an Engineering Faculty of Argentina. 
 * I'm 25 years old 
@@ -29,14 +29,16 @@
 
 ## Development Experience
 
+I've been coding since went to university, I made full CRUD systems learning and using different paradigms, frameworks, technologies, languages, and techniques in there. Besides, I took some online courses, a bootcamp and I was coding as a freelancer to improve this knowledge and adquire some more experience. Last think I learned is React Native using Expo (Mobile development is not my strong area, but it was the need of a client).
 
-**University** (Relevant softwares that I made while I was enrolled at the university)
+I want to specialise myself on C# .NET, so I search for jobs in that area. I'm looking for a team I can learn from and grow up profesionally.
+
+You can find my projects at my portfolio. 
+
+These are some of the projects I can't upload in there for different reasons.
 
 
-Since I was enrolled at the university I developed several softwares, These are the ones that I consider most important, all of them with a login, user management, roles control, and a CRUD with a database connection.
-
-
-- **Website of a car dealership:** car management, users, roles, login, reports.
+- **Website of a car dealership:** car management, users, roles, beans, login, reports.
 
 Technologies: Java – JSF – Hibernate – PostgresSQL – iReport – Bootstrap – Spring – Eclipse –
 Apache
@@ -49,33 +51,11 @@ Technologies: .NET – C# – Windows Forms – SQLSV Express – VS2010
 
 
 
-- **System for a cinema:** management of clients, users, roles, projections, films, login, generation of
-tickets, seats selection.
-
-Technologies: .NET – C# – WPF – XAML – SQLSV Express – VS2010
-
-
-
-**Freelance** (Projects that I made outside of the academic field)
-
-
-
-- **Laravel Portfolio:** user management, users, projects, contact.
-
-Technologies: RESTful Services – Laravel – PHP – Bootstrap – Laragon – HeidiSQL – Mailtrap –
-Blade – npm – CSS
-
-
-
-- **Anime website:** show any anime info using an API, contact, validations, UX.
-
-Technologies: API Jikan – React JS – Bootstrap – MailJS – Router – npm – CSS
-
 
 
 ## Contact me:
 
-Linkedin: https://www.linkedin.com/in/leonardo-maidana-1a2482223/
+Linkedin: https://www.linkedin.com/in/leon-maidana/
 
 Gmail: dev.maidanalgm@gmail.com
 
