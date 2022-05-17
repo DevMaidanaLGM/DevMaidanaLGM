@@ -1,6 +1,6 @@
 # Hi, I’m @DevMaidanaLGM (Leon) 
 
-* I'm a recently graduate of the "University Programmer Analyst" Degree of an Engineering Faculty of Argentina. 
+* I'm a graduate of the "University Programmer Analyst" Degree of an Engineering Faculty of Argentina. 
 * I'm 25 years old 
 * I'm from Argentina, so my native language is Spanish
 * My English level is pretty good so we can communicate in both languages
